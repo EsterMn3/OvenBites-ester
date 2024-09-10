@@ -7,7 +7,6 @@ Welcome to OvenBites, a revolutionary food subscription service that delivers he
   <a href="https://ester-ovenbites.netlify.app/">
     <img src="img\logos\ovenbites_logo.webp" alt="Logo" height="70">
   </a>
-  <h1 align="center">BrightSun</h1>
 
   <p align="center">
     <a href="https://ester-ovenbites.netlify.app/">View Demo</a>
